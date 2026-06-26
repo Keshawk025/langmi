@@ -11,14 +11,6 @@ LangMi brings full observability, debugging, and tracing to complex LLM orchestr
 
 ---
 
-## 🎬 Demo Animation
-
-Here is a recording showing the interactive telemetry dashboard and trace solver in action:
-
-![LangMi Interactive Dashboard Demo](public/dashboard_recording.webp)
-
----
-
 ## 📸 Preview Screenshots
 
 ### Landing Portal

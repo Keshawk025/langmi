@@ -13,10 +13,7 @@ LangMi brings full observability, debugging, and tracing to complex LLM orchestr
 
 ## 📸 Preview Screenshots
 
-### Landing Portal
-![LangMi Landing Page Preview](public/landing_preview.png)
-
-### Observability Dashboard & Trace Solver
+### Dashboard & Trace Solver
 ![LangMi Dashboard Preview](public/dashboard_preview.png)
 
 ---
